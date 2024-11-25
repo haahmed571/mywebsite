@@ -71,9 +71,6 @@ main {
     transition: transform 0.3s;
 }
 
-main:hover {
-    transform: translateY(-5px);
-}
 
 main h2 {
     margin-top: 0;
